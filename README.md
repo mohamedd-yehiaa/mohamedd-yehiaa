@@ -4,57 +4,79 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Mobile%20Development%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=54" alt="Profile Header" />
 </div>
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me 
 
-I am a Software Engineer specializing in cross-platform mobile development and cloud infrastructure. I thrive at the intersection of building scalable, user-facing applications and engineering the robust deployment pipelines that support them. My goal is to design secure, end-to-end software solutions with a strong focus on automation and operational efficiency.
-
-- 🔭 **Currently Architecting:** **Pulsera HRMS** — A full-stack, solo-developed Human Resources Management System. I engineered a custom cryptographic TOTP attendance tracker, role-based access controls, and an automated payroll engine using Flutter, Firebase, and Supabase.
-- 🌱 **Currently Advancing:** DevOps methodologies, CI/CD pipeline automation (GitHub Actions), Linux system administration, and infrastructure scripting (Python & Bash).
-- ⚡ **Technical Focus:** Clean Architecture, state management (Bloc/Cubit), hybrid database management, and building production-ready software.
-- 📫 **How to reach me:**
+- 🧑‍💻 **Software Engineer** | Focused on **Cross-Platform Mobile Development** and transitioning into **Cloud Infrastructure**
+- ⚙️ Building with **Flutter**, **Dart**, **Firebase**, **Supabase**, **Clean Architecture**, and **Bloc/Cubit**
+- 🌱 Actively advancing in **CI/CD Automation** (GitHub Actions, Fastlane), **Infrastructure Scripting** (Python, Bash), and **Linux Administration**
+- 🛠️ **Developer** of **Pulsera HRMS** — A full-stack solo project featuring custom QR location validation and an automated payroll engine
+- 🚀 Passionate about **problem-solving**, writing **clean code**, and delivering **secure, scalable applications**
   
-  <a href="https://www.linkedin.com/in/mohamedd-yehiaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohamedyehia3451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedd-yehiaa" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohamedyehiaali4@gmail.com" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201222787087" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/MohamedYehia74/" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/></a>
+</p>
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc/Cubit-191A1B?style=for-the-badge&logo=dart&logoColor=white)
+### Mobile & Languages
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" /><br>Flutter</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" /><br>Dart</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" /><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" /><br>Golang</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" /><br>Java</td>
 
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### DevOps & Cloud Architecture
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![System Architecture](https://img.shields.io/badge/System_Design-00599C?style=for-the-badge&logo=googlecloud&logoColor=white)
+  </tr>
+</table>
 
-### Scripting & Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Backend & Databases
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45" /><br>Firebase</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" /><br>Supabase</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" /><br>MySQL</td>
+  </tr>
+</table>
 
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-
----
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical" alt="Mohamed's GitHub Streak" />
-</div>
+### DevOps & Tools
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" /><br>Bash</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" /><br>Git</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" /><br>Jenkins</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" /><br>Google Cloud</td>
+  </tr>
+</table>
 
 ---
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedd-Yehiaa&theme=radical&bg_color=141321&hide_border=true" alt="Mohamed's Activity Graph" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedd-yehiaa&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
+  &nbsp; &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
+  <br><br>
+  <img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedd-Yehiaa&theme=radical&bg_color=141321&hide_border=true" alt="Mohamed's Activity Graph" />
+</p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedd-Yehiaa/Mohamedd-Yehiaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedd-Yehiaa/Mohamedd-Yehiaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohamedd-Yehiaa/Mohamedd-Yehiaa/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
