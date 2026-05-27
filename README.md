@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Mobile%20Development%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=54" alt="Profile Header" />
   <br><br>
-  <a href="YOUR_CV_LINK_HERE" target="_blank"><img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=30&animation=fadeIn" alt="View My CV" width="41%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=30&animation=fadeIn" alt="Visit My Website" width="41%" /></a>
+  <a href="YOUR_CV_LINK_HERE" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
 </div>
 
 ## 🙋‍♂️ About Me 
