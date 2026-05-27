@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Mobile%20Development%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=54" alt="Profile Header" />
-  <br>
-  <a href="YOUR_CV_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/-View%20My%20CV-fe428e?style=for-the-badge" alt="View My CV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="YOUR_WEBSITE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/-Visit%20My%20Website-a9fef7?style=for-the-badge" alt="Visit My Website" /></a>
+  <br><br>
+  <a href="YOUR_CV_LINK_HERE" target="_blank"><img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=30&animation=fadeIn" alt="View My CV" width="41%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=30&animation=fadeIn" alt="Visit My Website" width="41%" /></a>
 </div>
 
 ## 🙋‍♂️ About Me 
@@ -85,5 +85,5 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedd-Yehiaa&theme=radical&no-frame=true&margin-w=15" alt="Mohamed's Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Mohamedd-Yehiaa&theme=radical&no-frame=true&margin-w=15" alt="Mohamed's Trophies" />
 </p>
