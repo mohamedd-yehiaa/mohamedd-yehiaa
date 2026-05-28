@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Mobile%20Development%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=54" alt="Profile Header" />
   <br><br>
-  <a href="YOUR_CV_LINK_HERE" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
+  <a href="./Mohamed_Yehia_CV_Public.pdf" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
 </div>
 
 ## 🙋‍♂️ About Me 
@@ -19,7 +19,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedd-yehiaa" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mohamedyehiaali4@gmail.com" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/201222787087" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/MohamedYehia74/" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/></a>
 </p>
 
