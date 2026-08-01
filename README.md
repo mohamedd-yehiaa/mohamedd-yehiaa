@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Cloud%20Infrastructure%20%7C%20CI/CD%20Automation&descAlign=50&descAlignY=54" alt="Profile Header" />
   <br><br>
-  <a href="./Mohamed_Yehia_CV_Public.pdf" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/my-portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
+  <a href="./Mohamed_Yehia_CV.pdf" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/my-portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
 </div>
 
 ## 🙋‍♂️ About Me 
