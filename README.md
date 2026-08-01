@@ -1,18 +1,18 @@
 # Hi there, I'm Mohamed Yehia 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Mobile%20Development%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=54" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DevOps%20Engineer&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Cloud%20Infrastructure%20%7C%20CI/CD%20Automation&descAlign=50&descAlignY=54" alt="Profile Header" />
   <br><br>
-  <a href="./Mohamed_Yehia_CV_Public.pdf" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/My-Portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
+  <a href="./Mohamed_Yehia_CV_Public.pdf" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=View%20My%20CV&fontSize=35&animation=fadeIn" alt="View My CV" width="45%" /></a>&nbsp;&nbsp;&nbsp;<a href="https://mohamedd-yehiaa.github.io/my-portfolio/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=100&width=390&text=Visit%20My%20Website&fontSize=35&animation=fadeIn" alt="Visit My Website" width="45%" /></a>
 </div>
 
 ## 🙋‍♂️ About Me 
 
-- 🧑‍💻 **Software Engineer** | Focused on **Cross-Platform Mobile Development** and transitioning into **Cloud Infrastructure**
-- ⚙️ Building with **Flutter**, **Dart**, **Firebase**, **Supabase**, **Clean Architecture**, and **Bloc/Cubit**
-- 🌱 Actively advancing in **CI/CD Automation** (GitHub Actions, Fastlane), **Infrastructure Scripting** (Python, Bash), and **Linux Administration**
-- 🛠️ **Developer** of **Pulsera HRMS** — A full-stack solo project featuring custom QR location validation and an automated payroll engine
-- 🚀 Passionate about **problem-solving**, writing **clean code**, and delivering **secure, scalable applications**
+- 🧑‍💻 **DevOps Engineer** working on **Cloud Infrastructure**, **Containerization**, and **Automation**
+- ⚙️ Setting up environments with **Linux**, **Docker**, **Kubernetes**, and **Terraform**
+- 🌱 Building **CI/CD Pipelines** with **GitHub Actions**, **Jenkins**, and **Fastlane**
+- 🛠️ Automating deployments and troubleshooting with **Python**, **Golang**, and **Bash**
+- 🚀 Into **secure**, **highly available systems** and making dev workflows less painful
   
 ## 📫 How to reach me:
 
@@ -25,36 +25,24 @@
 ---
 ## 🛠️ Tech Stack & Tools
 
-### Mobile & Languages
+### DevOps & Cloud Infrastructure
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" /><br>Flutter</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" /><br>Dart</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" /><br>AWS</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" /><br>Terraform</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="45" /><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" /><br>Linux</td>
+  </tr>
+</table>
+
+### Programming & Scripting
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" /><br>Bash</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" /><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" /><br>Golang</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" /><br>Java</td>
-
-
-  </tr>
-</table>
-
-### Backend & Databases
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45" /><br>Firebase</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" /><br>Supabase</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" /><br>MySQL</td>
-  </tr>
-</table>
-
-### DevOps & Tools
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" /><br>Linux</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" /><br>Bash</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" /><br>Git</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" /><br>Jenkins</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" /><br>Google Cloud</td>
   </tr>
 </table>
 
