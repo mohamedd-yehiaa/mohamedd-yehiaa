@@ -50,11 +50,11 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedd-yehiaa&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
-  &nbsp; &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mohamedd-yehiaa&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
   <br><br>
-  <img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedd-Yehiaa&theme=radical&bg_color=141321&hide_border=true" alt="Mohamed's Activity Graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedd-yehiaa&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Mohamed's Top Languages" />
 </p>
 
 ---
@@ -69,8 +69,17 @@
 </p>
 
 ---
-## 🏆 GitHub Achievements
+## 📈 Contribution History
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Mohamedd-Yehiaa&theme=radical&no-frame=true&margin-w=15" alt="Mohamed's Trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedd-Yehiaa&theme=radical" alt="Mohamed's Profile Details" />
 </p>
+
+---
+<div align="center">
+
+### 💡 Building • Automating • Learning
+
+**Junior DevOps / Cloud Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD**
+
+</div>
