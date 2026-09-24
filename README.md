@@ -51,10 +51,10 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mohamedd-yehiaa&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedd-yehiaa&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Mohamed's Top Languages" />
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedd-yehiaa&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Mohamed's Top Languages" />
 </p>
 
 ---
