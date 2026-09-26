@@ -8,12 +8,15 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🧑‍💻 **DevOps Engineer** working on **Cloud Infrastructure**, **Containerization**, and **Automation**
-- ⚙️ Setting up environments with **Linux**, **Docker**, **Kubernetes**, and **Terraform**
-- 🌱 Building **CI/CD Pipelines** with **GitHub Actions**, **Jenkins**, and **Fastlane**
-- 🛠️ Automating deployments and troubleshooting with **Python**, **Golang**, and **Bash**
-- 🚀 Into **secure**, **highly available systems** and making dev workflows less painful
-  
+I'm a **Junior DevOps / Cloud Engineer** focused on building reliable development, deployment, and infrastructure workflows.
+
+- ☁️ Working with **AWS, Linux, Docker, Kubernetes, and Terraform**
+- 🔄 Building **CI/CD pipelines** with **GitHub Actions, Jenkins**
+- 📦 Containerizing applications and automating deployment workflows
+- 🛠️ Using **Bash, Python, and Go** for scripting and automation
+- 🔐 Interested in **cloud security, Infrastructure as Code, scalability, and observability**
+- 🚀 Building hands-on projects to strengthen my **Cloud & DevOps engineering** skills
+
 ## 📫 How to reach me:
 
 <p align="center">
@@ -23,26 +26,87 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+### 👨‍💻 Pulsera HRMS
+
+Cross-platform HR Management System developed for small and medium-sized businesses.
+
+**Highlights:**
+- Implemented CI/CD automation using GitHub Actions
+- Automated Flutter build workflows
+- Managed Firebase configuration through CI/CD secrets
+- Worked with Git-based development workflows
+- Built and maintained a production-oriented application architecture
+
+**Tech:** Flutter · Dart · Firebase · GitHub Actions
+
+🔗 **[View Repository](https://github.com/mohamedd-yehiaa/Pulsera-HRMS)**
+
+---
 ## 🛠️ Tech Stack & Tools
 
-### DevOps & Cloud Infrastructure
+### ☁️ DevOps & Cloud Infrastructure
+
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" /><br>Terraform</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="45" /><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" /><br>Linux</td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+      <br>AWS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" />
+      <br>Terraform
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="45" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" />
+      <br>Docker
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" />
+      <br>Linux
+    </td>
   </tr>
 </table>
 
-### Programming & Scripting
+### 🔄 CI/CD & Automation
+
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" /><br>Bash</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" /><br>Python</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" /><br>Golang</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" /><br>Git</td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="45" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+### 💻 Programming & Scripting
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" />
+      <br>Bash
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" />
+      <br>Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" />
+      <br>Golang
+    </td>
   </tr>
 </table>
 
