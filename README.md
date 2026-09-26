@@ -47,14 +47,18 @@
 </table>
 
 ---
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohamedd-yehiaa&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedd-Yehiaa&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" />
-  <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedd-yehiaa&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Mohamed's Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedd-Yehiaa&theme=radical"
+    width="32%"alt="GitHub Statistics"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamedd-Yehiaa&theme=radical&utcOffset=3"
+    width="32%"alt="Productive Time"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamedd-Yehiaa&theme=radical"
+    width="32%"alt="Repositories Per Language"/>
 </p>
 
 ---
@@ -66,13 +70,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedd-Yehiaa/Mohamedd-Yehiaa/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohamedd-Yehiaa/Mohamedd-Yehiaa/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-## 📈 Contribution History
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedd-Yehiaa&theme=radical" alt="Mohamed's Profile Details" />
 </p>
 
 ---
