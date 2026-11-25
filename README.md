@@ -152,6 +152,7 @@ Cross-platform HR system for small and medium businesses, built solo as my gradu
 
 ---
 <div align="center">
+  
 ### 💡 Building • Automating • Learning
  
 **DevOps Engineer | AWS Certified Cloud Practitioner | Terraform | Docker | Kubernetes | CI/CD**
