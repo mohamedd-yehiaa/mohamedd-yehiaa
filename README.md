@@ -8,54 +8,68 @@
 
 ## 🙋‍♂️ About Me 
 
-I'm a **Junior DevOps / Cloud Engineer** focused on building reliable development, deployment, and infrastructure workflows.
+I'm a DevOps Engineer and AWS Certified Cloud Practitioner. I finished the DevOps Specialist track at ITI and the KodeKloud DevOps Mastery Specialization (95 hands-on labs).
 
-- ☁️ Working with **AWS, Linux, Docker, Kubernetes, and Terraform**
-- 🔄 Building **CI/CD pipelines** with **GitHub Actions, Jenkins**
-- 📦 Containerizing applications and automating deployment workflows
-- 🛠️ Using **Bash, Python, and Go** for scripting and automation
-- 🔐 Interested in **cloud security, Infrastructure as Code, scalability, and observability**
-- 🚀 Building hands-on projects to strengthen my **Cloud & DevOps engineering** skills
+- ☁️ Provision AWS infrastructure with **Terraform** and **Ansible**
+- 🔄 Build **CI/CD pipelines** with **GitHub Actions** and **Jenkins**
+- 📦 Containerize apps with **Docker** and deploy them on **Kubernetes**
+- 🛠️ Script automation in **Bash, Python, and Go**, on **Linux**
 
+
+Open to **Junior DevOps**, **Cloud Engineer**, and **Cloud Infrastructure** roles.
 ## 📫 How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedd-yehiaa" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohamedyehiaali4@gmail.com" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/MohamedYehia74/" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/></a>
+  <a href="mailto:mohamedyehiaali4@gmail.com" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/></a>
 </p>
 
 ---
 ## 🚀 Featured Projects
+
+### ☁️ ITI DevOps Labs
+ 
+Hands-on labs from the DevOps Specialist track at ITI: Terraform on AWS, Docker, Kubernetes, and CI/CD with GitHub Actions and Jenkins.
+ 
+**Tech:** Terraform · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · Linux
+ 
+🔗 **[View Repository](https://github.com/mohamedd-yehiaa/iti-devops-labs-2026)**
+
 ### 👨‍💻 Pulsera HRMS
 
-Cross-platform HR Management System developed for small and medium-sized businesses.
-
-**Highlights:**
-- Implemented CI/CD automation using GitHub Actions
-- Automated Flutter build workflows
-- Managed Firebase configuration through CI/CD secrets
-- Worked with Git-based development workflows
-- Built and maintained a production-oriented application architecture
-
-**Tech:** Flutter · Dart · Firebase · GitHub Actions
-
+Cross-platform HR system for small and medium businesses, built solo as my graduation project. Selected for the AOU Graduation Projects Expo 2026 (80 of 600+ projects).
+ 
+- QR-code attendance with anti-spoofing checks, leave requests, and real-time payroll
+- GitHub Actions and Fastlane pipeline for automated tests and releases
+- Firebase configuration kept in CI/CD secrets
+**Tech:** Flutter · Dart · Firebase · GitHub Actions · Fastlane
+ 
 🔗 **[View Repository](https://github.com/mohamedd-yehiaa/Pulsera-HRMS)**
+ 
+---
+## 🎓 Certifications
+ 
+- **AWS Certified Cloud Practitioner** (Amazon Web Services, Nov 2026)
+- **GitHub Foundations** (Microsoft, Sep 2026)
 
 ---
 ## 🛠️ Tech Stack & Tools
-
+ 
 ### ☁️ DevOps & Cloud Infrastructure
-
+ 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" />
       <br>AWS
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" />
       <br>Terraform
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="45" />
+      <br>Ansible
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="45" />
@@ -73,7 +87,7 @@ Cross-platform HR Management System developed for small and medium-sized busines
 </table>
 
 ### 🔄 CI/CD & Automation
-
+ 
 <table>
   <tr>
     <td align="center" width="120">
@@ -92,7 +106,7 @@ Cross-platform HR Management System developed for small and medium-sized busines
 </table>
 
 ### 💻 Programming & Scripting
-
+ 
 <table>
   <tr>
     <td align="center" width="120">
@@ -138,9 +152,8 @@ Cross-platform HR Management System developed for small and medium-sized busines
 
 ---
 <div align="center">
-
 ### 💡 Building • Automating • Learning
-
-**Junior DevOps / Cloud Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD**
-
+ 
+**DevOps Engineer | AWS Certified Cloud Practitioner | Terraform | Docker | Kubernetes | CI/CD**
+ 
 </div>
